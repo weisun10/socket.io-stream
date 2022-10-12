@@ -1,6 +1,6 @@
 {
   "name": "socket.io-stream",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "stream for socket.io",
   "author": "Naoyuki Kanezawa <naoyuki.kanezawa@gmail.com>",
   "contributors": [
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "component-bind": "~1.0.0",
-    "debug": "~2.2.0"
+    "debug": "~4.3.4"
   },
   "devDependencies": {
     "blob": "0.0.4",
